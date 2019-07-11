@@ -8,8 +8,8 @@ facebook: https://www.facebook.com/
 phone: 1580424XXXX
 email: xxxx@xxx.com
 
-baseurl: "/design-works"
-desingWorksUlr: "/design-works/designworks.html"
+baseurl: ""
+desingWorksUlr: "designworks.html"
 permalink: /:year/:month/:day/:title/
 
 exclude: ['README.md']
